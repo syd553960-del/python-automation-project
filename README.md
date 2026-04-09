@@ -1,6 +1,6 @@
 ## Python Automation Script
 
-This project is a Python script that automates data extraction and processing.
+This project is a Python script that scrapes job listings and processes the data into a structured format
 
 ### Features:
 - Scrapes job data from websites  
