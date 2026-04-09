@@ -6,7 +6,7 @@ This project is a Python script that scrapes job listings and processes the data
 - Scrapes job data from websites  
 - Extracts useful information  
 - Cleans and structures the data  
-- Saves results into Excel/CSV  
+- Saves results into Excel/CSV/json 
 
 ### Tools:
 - Python  
