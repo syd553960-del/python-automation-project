@@ -15,3 +15,19 @@ This project is a Python script that scrapes job listings and processes the data
 
 ### Output:
 Clean, structured data ready for use.
+
+### How to Run
+
+1. Install required libraries:
+pip install requests beautifulsoup4
+
+2. Run the script:
+python scraping_jobs.py
+
+### Example Output
+
+The script generates a structured Excel/CSV file with job listings including:
+- Job title  
+- Description  
+- Company  
+- Links  
